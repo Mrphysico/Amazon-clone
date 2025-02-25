@@ -33,7 +33,7 @@ width: 160px;
 }
 
 .logo{
-   background-image: url(/images-removebg-preview.png);
+   background-image: url(/Amazon-clone/images-removebg-preview.png);
     background-size: cover;
     height: 60px;
     width: 100%;
@@ -149,7 +149,7 @@ span{
 }
 /* hero section */
 .hero-section{
-    background-image: url(/PC_Hero_1_3000._CB582457311_.jpg);
+    background-image: url(/Amazon-clone/PC_Hero_1_3000._CB582457311_.jpg);
     height: 600px;
     background-size: cover;
     display: flex;
@@ -250,7 +250,7 @@ ul{
     justify-content: center;
  }
  .amazon-logo{
-    background-image: url(/images-removebg-preview.png);
+    background-image: url(/Amazon-clone/images-removebg-preview.png);
      background-size: cover;
      height: 60px;
     width: 190px;
